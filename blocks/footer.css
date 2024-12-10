@@ -16,10 +16,7 @@
   height: 39px;
 }
 
-.footer__column {
-}
-
-.footer__colum-heading {
+.footer__column-heading {
   margin: 0 0 20px;
   font-family: "Inter", "Arial", sans-serif;
   font-weight: bold;

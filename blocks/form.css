@@ -28,7 +28,6 @@
 
 .form__button {
   border-radius: 4px;
-  max-width: 1600px;
   width: 100%;
   border: none;
   padding: 20px 0;
@@ -45,7 +44,6 @@
 
 .form__button:hover {
   background-color: #3f96f3;
-  color: #fff;
 }
 
 .form__checkbox {
@@ -57,5 +55,5 @@
 .form__label_type_checkbox {
   display: flex;
   justify-content: center;
-  gap: 20px;
+  gap: 12px;
 }
