@@ -9,7 +9,8 @@
   background-position: center;
   position: relative;
   background-color: #ffffff;
-}
+  z-index: 1;
+
 
 .header__title {
   margin: 183px 0 0;
@@ -42,6 +43,7 @@
   right: 5px;
   width: 646px;
   height: 568px;
+  z-index: -1;
 }
 
 .header__footer {

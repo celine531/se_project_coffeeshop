@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Add your ideas here :) I think keeping the nav block as a position absolute would be useful for a website. Clicking on the address in the footer could direct the user to a map showing where the address is at.
